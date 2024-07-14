@@ -58,7 +58,7 @@ For authorization to use this software, please contact: [heidawu@foxmail.com](ma
     - After adjustment, you can disconnect the WiFi control pin.
 3. **Web Interface:**
     - If the wifiControlPin is low, the ESP32 will start in AP mode with the specified SSID and password.
-    - Connect to the WiFi network and access the web interface at the IP address printed in the serial monitor.
+    - Connect to the WiFi network and access the web interface at 192.168.4.1.
     - Use the web interface to adjust timing parameters and enable/disable triggers.
 4. **Button Operation:**
     - The button pin is set to input mode with a pull-up resistor.
