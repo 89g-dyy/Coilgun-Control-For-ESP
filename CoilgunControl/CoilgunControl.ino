@@ -53,7 +53,7 @@ The LED+ of the optocoupler is connected to 3.3V voltage with a series resistor 
 const char* ssid = "Coilgun"; // Set WiFi SSID within ""
 const char* password = "88888888"; // Set WiFi password within ""
 
-const int ledPins[] = {NULL,2, 4, 16, 17, 5, 18, 19, 21, 22, 23, 25, 26,12, 27, 32, 33}; // Define 17 trigger pins
+const int ledPins[] = {NULL, 2, 4, 16, 17, 5, 18, 19, 21, 22, 23, 25, 26, 12, 27, 32, 33}; // Define 17 trigger pins
 const int ledCount = 17; // Number of triggers
 const int buttonPin = 14; // Pin connected to the button
 const int wifiControlPin = 13; // Define the pin controlling WiFi signal to prevent WiFi attacks
