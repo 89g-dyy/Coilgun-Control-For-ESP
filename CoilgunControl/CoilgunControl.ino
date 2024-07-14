@@ -1,5 +1,5 @@
 /*********************************************************************
-This code is written by 89g for the study and research of the railgun timing controller. Unauthorized use of this code by any individual, company, or organization is prohibited. To use this code, you must obtain my written authorization.
+This code is written by 89g for the study and research of the Coilgun timing controller. Unauthorized use of this code by any individual, company, or organization is prohibited. To use this code, you must obtain my written authorization.
 This code is only allowed to be used for hardware research in legally permitted venues; otherwise, it is considered illegal and unauthorized use.
 If you do not have my authorization manual, it is also considered unauthorized. Please delete the code text and compiled files after learning the code.
 *********************************************************************/
@@ -15,7 +15,7 @@ The Software is provided "as is", without any express or implied warranties, inc
 To obtain authorization to use this software, please contact: [heidawu@foxmail.com]
 *********************************************************************/
 
-/* This program is an implementation of a railgun timing controller. It includes the following features:
+/* This program is an implementation of a Coilgun timing controller. It includes the following features:
  * - Precise control of multiple timing modes
  * - Control and operation through specific GPIO pins
  * - Web-based timing and working state adjustment via WiFi connection
