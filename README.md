@@ -87,3 +87,7 @@ For any issues or questions, please open an issue on this repository or contact 
 ---
 
 Enjoy your hardware research and experimentation
+
+## NOTE：
+The ESP32 pins may exhibit unstable waveforms during startup. Therefore, the LED in the optocoupler isolator requires a separate switch to serve as the gun's safety, as shown in the figure: ![figure](images/001.png)
+
