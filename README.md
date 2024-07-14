@@ -1,4 +1,4 @@
-# Railgun Timing Controller
+# Coilgun Timing Controller
 
 This repository contains code for a railgun timing controller, designed by 89g for study and research purposes. Unauthorized use of this code by any individual, company, or organization is prohibited. Please ensure you have obtained written authorization from the author before using this code.
 
